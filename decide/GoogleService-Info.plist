@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>42931486018-0egan5hoa8if7cr8c3rt4fvcnsnu7dr9.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.42931486018-0egan5hoa8if7cr8c3rt4fvcnsnu7dr9</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCcnP4cBHKb_KTRS3JWNIifSUfA-oAA68k</string>
+	<key>GCM_SENDER_ID</key>
+	<string>42931486018</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.UditiSharma.decide</string>
+	<key>PROJECT_ID</key>
+	<string>todo-decisions-app</string>
+	<key>STORAGE_BUCKET</key>
+	<string>todo-decisions-app.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:42931486018:ios:a728b5096cece6b84c9cdb</string>
+	<key>DATABASE_URL</key>
+	<string>https://todo-decisions-app.firebaseio.com</string>
+</dict>
+</plist>
